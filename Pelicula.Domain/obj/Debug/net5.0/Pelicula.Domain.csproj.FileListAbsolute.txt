@@ -1,0 +1,12 @@
+C:\Users\Fabian\Downloads\ACTIVIDAD1\ApiPelicula\Pelicula.Domain\bin\Debug\net5.0\Pelicula.Domain.deps.json
+C:\Users\Fabian\Downloads\ACTIVIDAD1\ApiPelicula\Pelicula.Domain\bin\Debug\net5.0\Pelicula.Domain.dll
+C:\Users\Fabian\Downloads\ACTIVIDAD1\ApiPelicula\Pelicula.Domain\bin\Debug\net5.0\ref\Pelicula.Domain.dll
+C:\Users\Fabian\Downloads\ACTIVIDAD1\ApiPelicula\Pelicula.Domain\bin\Debug\net5.0\Pelicula.Domain.pdb
+C:\Users\Fabian\Downloads\ACTIVIDAD1\ApiPelicula\Pelicula.Domain\obj\Debug\net5.0\Pelicula.Domain.csproj.AssemblyReference.cache
+C:\Users\Fabian\Downloads\ACTIVIDAD1\ApiPelicula\Pelicula.Domain\obj\Debug\net5.0\Pelicula.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabian\Downloads\ACTIVIDAD1\ApiPelicula\Pelicula.Domain\obj\Debug\net5.0\Pelicula.Domain.AssemblyInfoInputs.cache
+C:\Users\Fabian\Downloads\ACTIVIDAD1\ApiPelicula\Pelicula.Domain\obj\Debug\net5.0\Pelicula.Domain.AssemblyInfo.cs
+C:\Users\Fabian\Downloads\ACTIVIDAD1\ApiPelicula\Pelicula.Domain\obj\Debug\net5.0\Pelicula.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Fabian\Downloads\ACTIVIDAD1\ApiPelicula\Pelicula.Domain\obj\Debug\net5.0\Pelicula.Domain.dll
+C:\Users\Fabian\Downloads\ACTIVIDAD1\ApiPelicula\Pelicula.Domain\obj\Debug\net5.0\ref\Pelicula.Domain.dll
+C:\Users\Fabian\Downloads\ACTIVIDAD1\ApiPelicula\Pelicula.Domain\obj\Debug\net5.0\Pelicula.Domain.pdb

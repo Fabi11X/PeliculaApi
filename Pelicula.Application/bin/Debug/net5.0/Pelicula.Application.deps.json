@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Pelicula.Application/1.0.0": {
+        "dependencies": {
+          "Pelicula.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Pelicula.Application.dll": {}
+        }
+      },
+      "Pelicula.Domain/1.0.0": {
+        "runtime": {
+          "Pelicula.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pelicula.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pelicula.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
